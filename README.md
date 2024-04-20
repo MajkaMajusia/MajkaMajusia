@@ -1,5 +1,7 @@
 ## **O MNIE :>**
 
+[Banner]<a href="(https://www.youtube-nocookie.com/embed/GnvPHkJT0Q4?playlist=GnvPHkJT0Q4&autoplay=1&iv_load_policy=3&loop=1&start=)"><img src="bannerek.jpg"></a>
+
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glodiusz&hide_title=true&theme=material-vue&bg_color=0C1116&text_color=fff&langs_count=3" />
 </a>
@@ -9,11 +11,6 @@
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Glodiusz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0C1116&text_color=fff&icon_color=3A90F6&theme=material-palenight" />
 </a>
 <br>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/789133178144030737)](https://discord.com/users/789133178144030737)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p5rk00qxdhit92wnajg8fh6vy)
-
 
 ### Portfolio
 
