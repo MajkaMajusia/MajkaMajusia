@@ -8,7 +8,7 @@
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.youtube.com/watch?v=7kfDK4rpbgY&pp=ygUFYmFtYmk%3D">
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Glodiusz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0C1116&text_color=fff&icon_color=3A90F6&theme=material-palenight" />
 
 
