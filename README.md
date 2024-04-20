@@ -1,6 +1,6 @@
 ## **O MNIE :>**
 
-[Banner]<a href="(https://www.youtube-nocookie.com/embed/GnvPHkJT0Q4?playlist=GnvPHkJT0Q4&autoplay=1&iv_load_policy=3&loop=1&start=)"><img src="bannerek.jpg"></a>
+<a href="(https://www.youtube-nocookie.com/embed/GnvPHkJT0Q4?playlist=GnvPHkJT0Q4&autoplay=1&iv_load_policy=3&loop=1&start=)"><img src="bannerek.jpg"></a>
 
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glodiusz&hide_title=true&theme=material-vue&bg_color=0C1116&text_color=fff&langs_count=3" />
