@@ -1,5 +1,6 @@
 ## **O MNIE :>**
 
+[No weź, poczęstuj się kolego/koleżanko](https://www.youtube-nocookie.com/embed/GnvPHkJT0Q4?playlist=GnvPHkJT0Q4&autoplay=1&iv_load_policy=3&loop=1&start=)
 <a href="(https://www.youtube-nocookie.com/embed/GnvPHkJT0Q4?playlist=GnvPHkJT0Q4&autoplay=1&iv_load_policy=3&loop=1&start=)"><img src="bannerek.jpg"></a>
 
 <a href="https://github.com/anuraghazra/convoychat">
