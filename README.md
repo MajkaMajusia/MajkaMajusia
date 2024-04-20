@@ -10,7 +10,7 @@
 </a>
 <br>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/789133178144030737)](https://discord.com/users/789133178144030737)
+[![Discord Presence](https://lanyard.cnrad.dev/api/789133178144030737)](https://discord.com/users/789133178144030737)
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p5rk00qxdhit92wnajg8fh6vy)
 
